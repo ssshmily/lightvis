@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="zh_project_title"><![CDATA[桃花源别墅]]></data>
+
+
+  <data name="zh_panogroup84_title"><![CDATA[一楼]]></data>
+
+  <data name="zh_pano38_title"><![CDATA[小区正门]]></data>
+  <data name="zh_pano19942_title"><![CDATA[动态夜景大庭院]]></data>
+  <data name="zh_pano19941_title"><![CDATA[动态夜景小庭院]]></data>
+  <data name="zh_pano45_title"><![CDATA[小桥]]></data>
+  <data name="zh_pano46_title"><![CDATA[凉亭]]></data>
+  <data name="zh_pano47_title"><![CDATA[别墅正门]]></data>
+  <data name="zh_pano49_title"><![CDATA[大庭院]]></data>
+  <data name="zh_pano50_title"><![CDATA[小庭院]]></data>
+  <data name="zh_pano42_title"><![CDATA[客厅]]></data>
+  <data name="zh_pano40_title"><![CDATA[餐厅]]></data>
+  <data name="zh_pano51_title"><![CDATA[会客室]]></data>
+  <data name="zh_pano41_title"><![CDATA[厨房]]></data>
+  <data name="zh_pano43_title"><![CDATA[卧室]]></data>
+  <data name="zh_pano44_title"><![CDATA[卫生间]]></data>
+  <data name="zh_pano39_title"><![CDATA[楼梯间]]></data>
+  <data name="zh_spotpoint146_tooltip"><![CDATA[上楼]]></data>
+  <data name="zh_spotpoint169_tooltip"><![CDATA[下楼]]></data>
+
+
+  <data name="zh_pano48_title"><![CDATA[庭院过道]]></data>
+
+
+  <data name="zh_pano52_title"><![CDATA[室内入口]]></data>
+
+
+  <data name="zh_pano57_title"><![CDATA[过道]]></data>
+
+
+  <data name="zh_pano59_title"><![CDATA[过道]]></data>
+
+  <data name="zh_panogroup103_title"><![CDATA[二楼]]></data>
+
+  <data name="zh_pano60_title"><![CDATA[主卧室]]></data>
+  <data name="zh_pano61_title"><![CDATA[晒台]]></data>
+  <data name="zh_pano63_title"><![CDATA[浴室]]></data>
+  <data name="zh_pano62_title"><![CDATA[收纳间]]></data>
+  <data name="zh_pano58_title"><![CDATA[书房]]></data>
+  <data name="zh_pano56_title"><![CDATA[学习室]]></data>
+  <data name="zh_pano55_title"><![CDATA[次卧室]]></data>
+  <data name="zh_pano54_title"><![CDATA[次卧卫生间]]></data>
+  <data name="zh_pano53_title"><![CDATA[楼梯间]]></data>
+  <data name="zh_spotpoint147_tooltip"><![CDATA[下楼]]></data>
+
+  <data name="zh_panogroup105_title"><![CDATA[地下一层]]></data>
+
+  <data name="zh_pano66_title"><![CDATA[储物室]]></data>
+  <data name="zh_pano65_title"><![CDATA[健身房]]></data>
+  <data name="zh_pano64_title"><![CDATA[楼梯间]]></data>
+  <data name="zh_spotpoint170_tooltip"><![CDATA[上楼]]></data>
+  <data name="zh_spotpoint175_tooltip"><![CDATA[下楼]]></data>
+
+  <data name="zh_panogroup109_title"><![CDATA[地下二层]]></data>
+
+  <data name="zh_pano74_title"><![CDATA[吧台]]></data>
+  <data name="zh_pano75_title"><![CDATA[写字台]]></data>
+  <data name="zh_pano76_title"><![CDATA[休息区]]></data>
+  <data name="zh_pano77_title"><![CDATA[密室]]></data>
+  <data name="zh_pano68_title"><![CDATA[放映室]]></data>
+  <data name="zh_pano73_title"><![CDATA[娱乐室]]></data>
+  <data name="zh_pano72_title"><![CDATA[洗衣房]]></data>
+  <data name="zh_pano70_title"><![CDATA[过道]]></data>
+  <data name="zh_pano71_title"><![CDATA[车库过道]]></data>
+  <data name="zh_pano69_title"><![CDATA[总控室]]></data>
+  <data name="zh_pano67_title"><![CDATA[楼梯间]]></data>
+
+
+
+
+
+
+  <data name="zh_360images_responsive_grid_thumbnailsgrid_title"><![CDATA[桃花源别墅]]></data>
+  <data name="zh_buttontooltip"><![CDATA[]]></data>
+  <data name="zh_togglebuttonfirsttooltip"><![CDATA[]]></data>
+  <data name="zh_togglebuttonsecondtooltip"><![CDATA[]]></data>
+  <data name="zh_togglebutton1firsttooltip"><![CDATA[]]></data>
+  <data name="zh_togglebutton1secondtooltip"><![CDATA[]]></data>
+  <data name="zh_togglebutton2firsttooltip"><![CDATA[]]></data>
+  <data name="zh_togglebutton2secondtooltip"><![CDATA[]]></data>
+  <data name="zh_webvrbuttontooltip"><![CDATA[]]></data>
+  <data name="zh_buttonForASinglePanotooltip"><![CDATA[]]></data>
+  <data name="zh_buttonForASinglePanopanoid1020"><![CDATA[pano49]]></data>
+  <data name="zh_buttonForASinglePano1tooltip"><![CDATA[]]></data>
+  <data name="zh_buttonForASinglePano1panoid1040"><![CDATA[pano19942]]></data>
+  <data name="zh_buttonForASinglePano2tooltip"><![CDATA[]]></data>
+  <data name="zh_buttonForASinglePano2panoid1060"><![CDATA[pano50]]></data>
+  <data name="zh_buttonForASinglePano3tooltip"><![CDATA[]]></data>
+  <data name="zh_buttonForASinglePano3panoid1080"><![CDATA[pano19941]]></data>
+
+
+  <data name="zh_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="zh_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="zh_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="zh_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="zh_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="zh_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="zh_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="zh_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="zh_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="zh_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="zh_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="zh_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="zh_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="zh_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="zh_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="zh_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="zh_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="zh_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="zh_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="zh_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="zh_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="zh_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="zh_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="zh_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="zh_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="zh_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="zh_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="zh_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
